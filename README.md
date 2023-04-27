@@ -4,10 +4,11 @@
 
 <div>
  <div style="border-radius: 10px" align="right">
-<img style="border-radius: 10px" align="right" alt="GIF" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/media/7be714caa2c3e63f17b71ab7c6aab4a8.gif" width="420" height="270" />
+<img style="border-radius: 10px" align="right" alt="GIF" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/media/7be714caa2c3e63f17b71ab7c6aab4a8.gif" width="420" height="250" />
  </div>
 
 <div align="left">
+ </br>
  </br>
 <ul>
  <li>🔭 I’m currently working on recipe application AllSpice.</li>
@@ -21,7 +22,7 @@
  </div>
  </div>
 <br/>
-<br/>
+
 
 ## Skills and Technologies:
 
@@ -31,7 +32,7 @@
 
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:zap: GitHub Stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiiashaynyuk&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
  
