@@ -3,6 +3,7 @@
 I am a full-stack software developer currently attending Boise CodeWorks to hone my skills and become an expert in web development. I enjoy studying human and programming languages, love solving problems and I'm always eager to pick up new skills and take on new challenges.
 
 <br>
+<br>
 
 <img style="border-radius: 30px !important;" align="right" alt="GIF" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/media/7be714caa2c3e63f17b71ab7c6aab4a8.gif" width="500" height="300" />
 
