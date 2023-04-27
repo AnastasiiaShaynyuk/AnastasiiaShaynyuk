@@ -6,7 +6,7 @@ I am a full-stack software developer currently attending Boise CodeWorks to hone
 
 <br>
 <br>
-
+<div>
 🔭 I’m currently working on recipe application AllSpice.
 <br>
 🌱 I’m currently learning C# and mySQL.
@@ -18,6 +18,7 @@ I am a full-stack software developer currently attending Boise CodeWorks to hone
 😄 Pronouns: She/Her
 <br>
 ⚡ Fun facts: I love playing board games and solving puzzles.
+ </div>
 <br>
 <br>
 
