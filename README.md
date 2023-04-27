@@ -9,7 +9,6 @@
 
 <div align="left">
  <br>
- <br>
 <ul>
  <li>🔭 I’m currently working on recipe application AllSpice.</li>
  <li>🌱 I’m currently learning C# and mySQL.</li>
@@ -22,7 +21,7 @@
  </div>
  </div>
 <br>
-
+<br>
 
 ## Skills and Technologies:
 
