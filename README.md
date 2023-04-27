@@ -14,7 +14,7 @@
  <li>🌱 I’m currently learning C# and mySQL.</li>
 <li>💬 Ask me about full stack web development.</li>
 <li>📫 How to reach me: anashaynyuk@gmail.com.</li>
-<li>📱 How to connect with me: <a align="center" href="https://www.linkedin.com/in/anastasiiashaynyuk/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> Linkedin</a></li>
+<li>📱 How to connect with me: <a align="center" href="https://www.linkedin.com/in/anastasiiashaynyuk"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> Linkedin</a></li>
 <li>🌳 Pronouns: She/Her</li>
 <li>⚡ Fun facts: I love playing board games and solving puzzles.</li>
  </ul>
