@@ -6,6 +6,7 @@ I am a full-stack software developer currently attending Boise CodeWorks to hone
 
 <br>
 <br>
+
 - 🔭 I’m currently working on recipe application AllSpice.
 <br>
 - 🌱 I’m currently learning C# and mySQL.
