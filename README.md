@@ -9,7 +9,6 @@
 
 <div align="left">
  </br>
- </br>
 <ul>
  <li>🔭 I’m currently working on recipe application AllSpice.</li>
  <li>🌱 I’m currently learning C# and mySQL.</li>
@@ -33,11 +32,32 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiiashaynyuk&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <picture align="left">
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anastasiiashaynyuk&layout=compact&show_icons=true&theme=buefy&hide=prs,issues"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anastasiiashaynyuk&layout=compact&show_icons=true&theme=buefy&hide=prs,issues"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anastasiiashaynyuk&layout=compact&show_icons=true&theme=buefy&hide=prs,issues" />
+</picture>
+<span>&nbsp;</span>
+  <picture align="right">
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiiashaynyuk&layout=compact&theme=buefy"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiiashaynyuk&layout=compact&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiiashaynyuk&layout=compact&theme=buefy" />
+</picture>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasiiashaynyuk&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
- 
+ </div>
  </details>
 
 
