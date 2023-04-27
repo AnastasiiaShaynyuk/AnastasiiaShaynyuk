@@ -32,6 +32,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+ <br>
 <div>
  <picture align="left">
 <source
