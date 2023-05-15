@@ -10,7 +10,7 @@
 <div align="left">
  <br>
 <ul>
- <li>🔭 I’m currently working on recipe application AllSpice.</li>
+ <li>🔭 I’m currently working on social media application Keepr.</li>
  <li>🌱 I’m currently learning C# and mySQL.</li>
 <li>💬 Ask me about full stack web development.</li>
 <li>📫 How to reach me: anashaynyuk@gmail.com.</li>
