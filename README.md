@@ -10,8 +10,8 @@
 <div align="left">
  <br>
 <ul>
- <li>🔭 I’m currently working on social media application Keepr.</li>
- <li>🌱 I’m currently learning C# and mySQL.</li>
+ <li>🔭 I’m currently working on my porfolio.</li>
+ <li>🌱 I’m currently learning React.</li>
 <li>💬 Ask me about full stack web development.</li>
 <li>📫 How to reach me: anashaynyuk@gmail.com.</li>
 <li>📱 How to connect with me: <a align="center" href="https://www.linkedin.com/in/anastasiia-shaynyuk/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> Linkedin</a></li>
