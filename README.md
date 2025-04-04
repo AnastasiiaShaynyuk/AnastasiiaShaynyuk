@@ -4,7 +4,7 @@
 
 <div>
  <div style="border-radius: 10px" align="right">
-<img style="border-radius: 10px" align="right" alt="GIF" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/media/7be714caa2c3e63f17b71ab7c6aab4a8.gif" width="420" height="250" />
+<img style="border-radius: 10px; border: 2px solid black" align="right" alt="GIF" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/media/7be714caa2c3e63f17b71ab7c6aab4a8.gif" width="420" height="250" />
  </div>
 
 <div align="left">
