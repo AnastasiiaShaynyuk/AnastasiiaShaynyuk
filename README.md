@@ -1,6 +1,6 @@
 <h1> Hi there 👋 I am Anastasiia. </h1>
 
-<p>I am a full-stack software developer currently attending Boise CodeWorks to hone my skills and become an expert in web development. I enjoy studying human and programming languages, love solving problems and I'm always eager to pick up new skills and take on new challenges.</p>
+<p>I’m a dedicated full-stack developer with a love for web design and problem-solving. Always eager to learn, I enjoy exploring both human and programming languages, tackling new challenges, and building creative, user-friendly digital experiences. Open to work and collaboration on exciting projects!</p>
 
 <div>
  <div style="border-radius: 10px" align="right">
